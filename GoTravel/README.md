@@ -7,7 +7,7 @@
 ### Download Project
 
 ```bash
-  git clone https://github.com/abdulaziz-m5u/travel-website-laravel.git project-name
+  git clone https://github.com/andiahyaul/gotravelweb.git project-name
 ```
 
 Go to the project directory
