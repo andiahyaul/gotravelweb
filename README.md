@@ -1,4 +1,4 @@
-# Travel Website Dengan Laravel
+# Travel Website with Laravel
 
 ## Preview
 
